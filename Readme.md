@@ -42,6 +42,8 @@ Each project contains:
 * 📊 Architecture (if applicable)
 * 🧪 Sample outputs or screenshots
 
+```
+
 ---
 
 ## 🎯 Purpose
